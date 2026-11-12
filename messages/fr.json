@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "title": "CRDO – Votre partenaire en conseil, recherche et innovation",
+    "description": "CRDO est une entreprise algérienne de conseil, recherche, développement et innovation, en partenariat avec l'Université Echahid Hamma Lakhdar – El Oued. Solutions, services, laboratoires et académie de formation."
+  },
+  "brand": {
+    "name": "CRDO",
+    "fullName": "Conseil, Recherche, Développement et Innovation",
+    "tagline": "Votre partenaire en conseil, recherche et innovation",
+    "logoAlt": "Logo CRDO"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "solutions": "Solutions",
+    "services": "Services",
+    "products": "Produits",
+    "labs": "Laboratoires",
+    "academy": "Académie",
+    "news": "Actualités",
+    "partners": "Partenaires",
+    "contact": "Contact",
+    "catalog": "Catalogue",
+    "careers": "Carrières"
+  },
+  "header": {
+    "search": "Rechercher",
+    "searchPlaceholder": "Rechercher dans le catalogue…",
+    "searchSubmit": "Rechercher",
+    "language": "Langue",
+    "quote": "Demander un devis",
+    "call": "Nous contacter",
+    "menu": "Ouvrir le menu",
+    "close": "Fermer",
+    "mainNav": "Navigation principale"
+  },
+  "hero": {
+    "badge": "ISO 9001:2015",
+    "badgeText": "Système de management de la qualité",
+    "title": "Votre partenaire en conseil, recherche et innovation",
+    "subtitle": "Nous accompagnons institutions, universités et administrations avec des solutions scientifiques et techniques fiables, appuyées par des chercheurs, ingénieurs et laboratoires spécialisés.",
+    "cta1": "Découvrir nos solutions",
+    "cta2": "Nous contacter"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "viewAll": "Tout afficher",
+    "comingSoon": "Bientôt disponible",
+    "placeholder": "Contenu en cours de préparation ; mise à jour prochaine.",
+    "requestQuote": "Demander un devis",
+    "contactUs": "Nous contacter",
+    "readMore": "Lire la suite",
+    "whatsapp": "Nous contacter sur WhatsApp",
+    "breadcrumbHome": "Accueil"
+  },
+  "cta": {
+    "title": "Vous avez un projet ou un besoin scientifique ou technique ?",
+    "text": "L'équipe CRDO est prête à vous écouter et à vous proposer une offre adaptée dans les meilleurs délais.",
+    "primary": "Demander un devis",
+    "secondary": "Nous contacter"
+  },
+  "footer": {
+    "about": "Société à responsabilité limitée (SARL) spécialisée en conseil, recherche, développement et innovation, en partenariat avec l'Université Echahid Hamma Lakhdar – El Oued.",
+    "quickLinks": "Liens rapides",
+    "more": "Plus",
+    "contact": "Coordonnées",
+    "address": "Daïra de Chott, Section 106, Groupement immobilier 312, commune d'El Oued",
+    "rights": "Tous droits réservés.",
+    "iso": "ISO 9001:2015",
+    "partner": "En partenariat avec l'Université Echahid Hamma Lakhdar – El Oued"
+  },
+  "form": {
+    "name": "Nom complet",
+    "email": "Adresse e-mail",
+    "phone": "Téléphone",
+    "company": "Organisation / Institution",
+    "subject": "Objet",
+    "message": "Message",
+    "send": "Envoyer",
+    "note": "À l'envoi, votre client de messagerie s'ouvrira avec un message prérempli adressé à l'équipe CRDO.",
+    "required": "Champs obligatoires",
+    "position": "Poste recherché",
+    "cvNote": "Veuillez joindre votre CV manuellement dans votre messagerie avant l'envoi.",
+    "mailSubjectPrefix": "[Site CRDO]"
+  },
+  "home": {
+    "intro": {
+      "eyebrow": "À propos",
+      "title": "Une expertise scientifique au service des institutions et de la société",
+      "text": "CRDO est une entreprise algérienne qui allie conseil spécialisé, recherche appliquée et innovation technologique. Nous travaillons aux côtés de l'Université Echahid Hamma Lakhdar – El Oued pour transformer le savoir académique en solutions concrètes au profit des secteurs public et privé.",
+      "points": [
+        "Une équipe de chercheurs, ingénieurs et experts",
+        "Laboratoires et équipements d'analyse et de mesure spécialisés",
+        "Engagement envers les normes de qualité ISO 9001:2015",
+        "Partenariat académique avec l'Université d'El Oued"
+      ]
+    },
+    "pillars": [
+      {
+        "title": "Conseil",
+        "text": "Études et accompagnement technique et stratégique pour éclairer la décision."
+      },
+      {
+        "title": "Recherche et développement",
+        "text": "Projets de recherche appliquée et développement de solutions innovantes."
+      },
+      {
+        "title": "Innovation",
+        "text": "Prototypes, transfert technologique et valorisation des résultats."
+      }
+    ],
+    "solutions": {
+      "eyebrow": "Solutions",
+      "title": "Des solutions intégrées pour vos besoins",
+      "text": "De l'idée à la mise en œuvre : nous concevons des solutions scientifiques et techniques adaptées au contexte de chaque projet."
+    },
+    "values": {
+      "eyebrow": "Nos valeurs",
+      "title": "Des valeurs qui guident notre action quotidienne",
+      "text": "Sept valeurs fondamentales qui encadrent nos relations avec partenaires, clients et équipe."
+    },
+    "services": {
+      "eyebrow": "Services",
+      "title": "Des services professionnels aux normes de qualité",
+      "text": "Analyses, études, formation et accompagnement sous la supervision d'experts spécialisés."
+    },
+    "news": {
+      "eyebrow": "Actualités",
+      "title": "Dernières nouvelles de CRDO",
+      "text": "Suivez nos activités, partenariats et événements scientifiques."
+    },
+    "partners": {
+      "eyebrow": "Partenaires",
+      "title": "Nos partenaires de réussite",
+      "text": "Nous construisons des relations durables avec des institutions académiques, industrielles et publiques."
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "À propos",
+      "subtitle": "Une entreprise algérienne qui met la science et l'innovation au service du développement."
+    },
+    "story": {
+      "title": "Présentation de l'entreprise",
+      "paragraphs": [
+        "CRDO est une société à responsabilité limitée (SARL) établie dans la wilaya d'El Oued, en Algérie, active dans les domaines du conseil, de la recherche, du développement et de l'innovation.",
+        "L'entreprise a été créée avec le soutien de l'Université Echahid Hamma Lakhdar – El Oued, afin de relier les compétences académiques aux besoins des organisations économiques et des administrations publiques, et de transformer les résultats de recherche en solutions applicables.",
+        "Nous fondons notre action sur une méthodologie rigoureuse et un système de management de la qualité conforme à la norme ISO 9001:2015, avec un souci constant de transparence et d'intégrité à chaque étape du projet."
+      ]
+    },
+    "vision": {
+      "title": "Notre vision",
+      "text": "Être le partenaire de référence en conseil, recherche et innovation aux niveaux national et régional, et contribuer à bâtir une économie de la connaissance."
+    },
+    "mission": {
+      "title": "Notre mission",
+      "text": "Fournir des services de conseil, de recherche et d'analyse de haute qualité, valoriser les compétences universitaires et transférer la technologie pour renforcer la compétitivité des organisations."
+    },
+    "objectives": {
+      "title": "Nos objectifs",
+      "items": [
+        "Développer des partenariats efficaces entre l'université et le monde économique",
+        "Réaliser des études et conseils techniques et scientifiques fiables",
+        "Soutenir l'innovation et la commercialisation des résultats de recherche",
+        "Former et qualifier les ressources humaines",
+        "Offrir des services d'analyse et de mesure via des laboratoires spécialisés"
+      ]
+    },
+    "values": {
+      "title": "Nos valeurs",
+      "items": [
+        { "title": "Professionnalisme", "text": "Nous travaillons avec méthode et professionnalisme sur chaque mission." },
+        { "title": "Engagement", "text": "Nous respectons nos engagements en délais et en qualité convenus." },
+        { "title": "Compétence", "text": "Nous nous appuyons sur des expertises scientifiques et techniques qualifiées." },
+        { "title": "Transparence", "text": "Clarté totale dans les offres, les procédures et les résultats." },
+        { "title": "Innovation", "text": "Nous recherchons en permanence des solutions nouvelles et plus efficaces." },
+        { "title": "Intégrité", "text": "Éthique stricte et confidentialité dans le traitement des données." },
+        { "title": "Respect", "text": "Respect des partenaires, des clients, de l'équipe et de l'environnement." }
+      ]
+    },
+    "univ": {
+      "title": "Partenariat avec l'Université d'El Oued",
+      "text": "CRDO s'appuie sur un partenariat stratégique avec l'Université Echahid Hamma Lakhdar – El Oued (Université El Oued), ce qui lui permet de mobiliser compétences de recherche, laboratoires et infrastructures universitaires pour mener des projets à forte valeur ajoutée."
+    },
+    "org": {
+      "title": "Organigramme",
+      "text": "Le schéma ci-dessous présente l'organisation de l'entreprise et ses différents services.",
+      "alt": "Organigramme de CRDO"
+    },
+    "legal": {
+      "title": "Informations légales",
+      "rows": [
+        { "label": "Dénomination", "value": "CRDO" },
+        { "label": "Forme juridique", "value": "Société à responsabilité limitée (SARL)" },
+        { "label": "Partenaire académique", "value": "Université Echahid Hamma Lakhdar – El Oued" },
+        { "label": "Norme", "value": "ISO 9001:2015" },
+        {
+          "label": "Adresse",
+          "value": "Daïra de Chott, Section 106, Groupement immobilier 312, commune d'El Oued"
+        }
+      ]
+    }
+  },
+  "solutions": {
+    "hero": {
+      "title": "Nos solutions",
+      "subtitle": "Des solutions scientifiques et techniques intégrées, du diagnostic à la mise en œuvre et au suivi."
+    },
+    "intro": "Les solutions CRDO combinent expertise académique et application sur le terrain. Nous concevons chaque solution selon les besoins et le contexte du client, en garantissant qualité et mesurabilité.",
+    "pointsTitle": "Ce que nous proposons",
+    "items": [
+      {
+        "title": "Conseil et études techniques",
+        "description": "Études de faisabilité, diagnostic et audit technique, élaboration de plans d'action et de recommandations.",
+        "points": ["Études de faisabilité", "Diagnostic et audit", "Évaluation d'impact"]
+      },
+      {
+        "title": "Recherche et développement appliqués",
+        "description": "Réalisation de projets de recherche conjoints avec les organisations pour résoudre des problématiques industrielles, environnementales et techniques.",
+        "points": ["Projets de recherche conjoints", "Développement de procédés", "Revue scientifique"]
+      },
+      {
+        "title": "Innovation et prototypes",
+        "description": "Transformer les idées en prototypes, les tester et les améliorer avant fabrication ou lancement.",
+        "points": ["Prototypes", "Essais et tests", "Accompagnement vers le marché"]
+      },
+      {
+        "title": "Analyses et mesures en laboratoire",
+        "description": "Analyses physiques, chimiques et environnementales selon des protocoles validés et des résultats traçables.",
+        "points": ["Analyses eau et sol", "Essais matériaux", "Rapports analytiques certifiés"]
+      },
+      {
+        "title": "Formation et renforcement des capacités",
+        "description": "Programmes de formation pour professionnels, cadres et étudiants, via l'Académie.",
+        "points": ["Stages courts", "Formation sur mesure en entreprise", "Attestations de participation"]
+      },
+      {
+        "title": "Transfert technologique et valorisation",
+        "description": "Accompagnement des chercheurs et des organisations dans la valorisation des résultats et la protection de la propriété intellectuelle.",
+        "points": ["Valorisation des résultats", "Brevets", "Lien avec l'industrie"]
+      }
+    ]
+  },
+  "services": {
+    "hero": {
+      "title": "Nos services",
+      "subtitle": "Des services professionnels fiables, encadrés par des experts et des exigences de qualité strictes."
+    },
+    "intro": "Nous offrons un large éventail de services aux organisations économiques, administrations, universités et chercheurs.",
+    "items": [
+      {
+        "title": "Conseil scientifique et technique",
+        "description": "Avis d'experts sur des questions techniques et scientifiques complexes.",
+        "points": ["Analyse des besoins", "Recommandations opérationnelles", "Rapports détaillés"]
+      },
+      {
+        "title": "Études et expertise",
+        "description": "Études de terrain, expertise technique et constitution de dossiers techniques.",
+        "points": ["Expertise judiciaire et technique", "Études de terrain", "Dossiers techniques"]
+      },
+      {
+        "title": "Analyses de laboratoire",
+        "description": "Analyses précises avec équipements modernes et résultats documentés.",
+        "points": ["Échantillons variés", "Délais définis", "Rapports officiels"]
+      },
+      {
+        "title": "Formation professionnelle et académique",
+        "description": "Cours spécialisés et ateliers pratiques.",
+        "points": ["Présentiel et à distance", "Formateurs certifiés", "Certificats"]
+      },
+      {
+        "title": "Gestion de projets de recherche",
+        "description": "Coordination et gestion de projets R&D et suivi des indicateurs.",
+        "points": ["Planification et calendrier", "Rapports périodiques", "Gestion des partenariats"]
+      },
+      {
+        "title": "Qualité et conformité",
+        "description": "Accompagnement des organisations dans la mise en place de systèmes qualité et de normes internationales.",
+        "points": ["ISO 9001", "Audit interne", "Amélioration continue"]
+      },
+      {
+        "title": "Appui numérique et données",
+        "description": "Analyse de données et outils numériques pour éclairer la décision.",
+        "points": ["Tableaux de bord", "Analyse statistique", "Automatisation des processus"]
+      },
+      {
+        "title": "Accompagnement à l'innovation",
+        "description": "Soutien aux innovateurs et aux startups, de l'idée au prototype.",
+        "points": ["Évaluation de l'idée", "Prototype", "Plan d'affaires"]
+      }
+    ],
+    "process": {
+      "title": "Comment travaillons-nous ?",
+      "steps": [
+        { "title": "Écoute", "text": "Nous comprenons vos besoins et le contexte de votre projet." },
+        { "title": "Proposition", "text": "Nous présentons une offre technique et financière claire." },
+        { "title": "Réalisation", "text": "Nous menons la mission selon un plan et une qualité convenus." },
+        { "title": "Suivi", "text": "Nous livrons les résultats et assurons le suivi et l'évaluation." }
+      ]
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "Nos produits",
+      "subtitle": "Produits et modèles innovants issus de nos activités de recherche et développement."
+    },
+    "intro": "Nos produits et solutions applicatives sont présentés ici. Cette page est en cours d'enrichissement ; les fiches techniques seront publiées progressivement.",
+    "items": [
+      {
+        "title": "Réactifs et consommables de laboratoire",
+        "description": "Consommables et réactifs destinés aux laboratoires et à la recherche."
+      },
+      {
+        "title": "Appareils de mesure et de surveillance",
+        "description": "Équipements de terrain pour la mesure de l'eau, du sol et de l'énergie."
+      },
+      {
+        "title": "Solutions d'énergies renouvelables",
+        "description": "Modèles et systèmes applicatifs pour l'énergie solaire en environnement désertique."
+      },
+      {
+        "title": "Matériaux et formulations innovants",
+        "description": "Nouveaux matériaux et composés issus de la recherche universitaire."
+      },
+      {
+        "title": "Logiciels et outils numériques",
+        "description": "Plateformes et logiciels pour l'analyse de données et la gestion de projets."
+      },
+      {
+        "title": "Prototypes",
+        "description": "Modèles évolutifs pour développement et fabrication en partenariat avec l'industrie."
+      }
+    ],
+    "note": "Pour toute question sur la disponibilité d'un produit ou pour demander une fiche technique, contactez-nous.",
+    "badge": "Modèle indicatif"
+  },
+  "labs": {
+    "hero": {
+      "title": "Nos laboratoires",
+      "subtitle": "Équipements modernes et compétences qualifiées pour des analyses précises et fiables."
+    },
+    "intro": "Nous mobilisons l'infrastructure laboratoire de l'Université Echahid Hamma Lakhdar – El Oued et les laboratoires CRDO pour fournir des services d'analyse, de mesure et d'essai.",
+    "equipmentTitle": "Équipements et capacités",
+    "items": [
+      {
+        "title": "Laboratoire d'analyses chimiques",
+        "description": "Analyse d'échantillons chimiques et physiques.",
+        "equipment": ["Spectrométrie", "Chromatographie", "Titrimétrie automatisée"]
+      },
+      {
+        "title": "Laboratoire eau et environnement",
+        "description": "Surveillance de la qualité de l'eau, du sol et de l'air.",
+        "equipment": ["Mesure du pH et conductivité", "Analyses microbiologiques", "Prélèvements sur site"]
+      },
+      {
+        "title": "Laboratoire matériaux et génie civil",
+        "description": "Essais sur béton, matériaux de construction et sols.",
+        "equipment": ["Essais de résistance", "Analyse granulométrique", "Contrôle qualité"]
+      },
+      {
+        "title": "Laboratoire énergie et électronique",
+        "description": "Essais des systèmes électriques et des énergies renouvelables.",
+        "equipment": ["Mesures électriques", "Essais de panneaux", "Systèmes de commande"]
+      }
+    ],
+    "quality": {
+      "title": "Qualité et traçabilité",
+      "text": "Nous opérons selon des procédures documentées et un système qualité ISO 9001:2015 garantissant la traçabilité des échantillons, la fiabilité des résultats et la confidentialité des données."
+    }
+  },
+  "academy": {
+    "hero": {
+      "title": "Académie CRDO",
+      "subtitle": "Formation spécialisée pour développer les compétences scientifiques et techniques."
+    },
+    "intro": "L'Académie propose des programmes de formation courts et longs, en collaboration avec des enseignants et experts de l'Université Echahid Hamma Lakhdar – El Oued et du secteur économique.",
+    "durationLabel": "Durée",
+    "programs": [
+      {
+        "title": "Méthodologie de la recherche et publication",
+        "description": "Rédaction d'articles, méthodologie de recherche et publication dans des revues indexées.",
+        "duration": "5 jours"
+      },
+      {
+        "title": "Qualité selon ISO 9001:2015",
+        "description": "Compréhension des exigences de la norme, mise en œuvre et audit du système qualité.",
+        "duration": "3 jours"
+      },
+      {
+        "title": "Analyse de données et statistiques",
+        "description": "Outils d'analyse et visualisation des données pour éclairer la décision.",
+        "duration": "4 jours"
+      },
+      {
+        "title": "Techniques de laboratoire et sécurité",
+        "description": "Bonnes pratiques de laboratoire et règles d'hygiène et de sécurité.",
+        "duration": "3 jours"
+      },
+      {
+        "title": "Énergies renouvelables",
+        "description": "Bases de la conception et de la maintenance des systèmes solaires.",
+        "duration": "5 jours"
+      },
+      {
+        "title": "Innovation et entrepreneuriat",
+        "description": "De l'idée au projet : modèle économique et financement.",
+        "duration": "4 jours"
+      }
+    ],
+    "formats": {
+      "title": "Modalités de formation",
+      "items": [
+        "Formation en présentiel au siège de l'Académie",
+        "Formation intra-entreprise sur demande",
+        "Formation à distance et mixte",
+        "Ateliers pratiques en laboratoire"
+      ]
+    },
+    "cta": {
+      "title": "Inscription ou programme sur mesure",
+      "text": "Contactez-nous pour connaître les prochaines sessions ou concevoir un programme adapté à votre organisation."
+    }
+  },
+  "news": {
+    "hero": {
+      "title": "Actualités",
+      "subtitle": "Nouvelles, activités et partenariats de CRDO."
+    },
+    "intro": "Nos actualités et événements sont publiés ici. Les articles ci-dessous sont des exemples indicatifs.",
+    "items": [
+      {
+        "date": "2026-10-01",
+        "category": "Partenariats",
+        "title": "Renforcement de la coopération avec l'Université Echahid Hamma Lakhdar – El Oued",
+        "excerpt": "Accord-cadre pour développer des projets de recherche appliquée et des services de laboratoire."
+      },
+      {
+        "date": "2026-09-15",
+        "category": "Qualité",
+        "title": "CRDO adopte le système de management de la qualité ISO 9001:2015",
+        "excerpt": "Un engagement renouvelé envers la qualité dans l'ensemble de nos services et laboratoires."
+      },
+      {
+        "date": "2026-09-01",
+        "category": "Académie",
+        "title": "Lancement des formations pour la nouvelle saison",
+        "excerpt": "Programmes en recherche scientifique, qualité et énergies renouvelables."
+      }
+    ]
+  },
+  "partners": {
+    "hero": {
+      "title": "Nos partenaires",
+      "subtitle": "Notre réussite repose sur des partenariats solides avec des institutions académiques et industrielles."
+    },
+    "primary": {
+      "title": "Université Echahid Hamma Lakhdar – El Oued",
+      "text": "Notre partenaire académique stratégique (Université El Oued) : coopération en recherche, laboratoires, formation et transfert de connaissances."
+    },
+    "categories": {
+      "title": "Types de partenariat",
+      "items": [
+        { "title": "Universités et centres de recherche", "text": "Projets de recherche conjoints et échange d'expertises." },
+        { "title": "Entreprises industrielles", "text": "Solutions applicatives, études et analyses." },
+        { "title": "Administrations et organismes publics", "text": "Conseil et appui technique au développement local." },
+        { "title": "Startups", "text": "Accompagnement à l'innovation et aux prototypes." }
+      ]
+    },
+    "logosTitle": "Partenaires et clients",
+    "logos": ["Partenaire 1", "Partenaire 2", "Partenaire 3", "Partenaire 4", "Partenaire 5", "Partenaire 6"],
+    "become": {
+      "title": "Devenez partenaire",
+      "text": "Nous accueillons toute initiative de coopération. Contactez-nous pour explorer les opportunités de partenariat."
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact",
+      "subtitle": "Nous sommes heureux de recevoir vos demandes d'information et de devis."
+    },
+    "infoTitle": "Coordonnées",
+    "phones": "Téléphone",
+    "email": "E-mail",
+    "address": "Adresse",
+    "map": "Voir sur la carte",
+    "hoursTitle": "Horaires",
+    "hours": "Du dimanche au jeudi : 08h00 – 16h30",
+    "formTitle": "Envoyez-nous un message",
+    "formText": "Remplissez le formulaire ; nous vous répondrons dans les meilleurs délais."
+  },
+  "catalog": {
+    "hero": {
+      "title": "Catalogue",
+      "subtitle": "Guide de nos services, produits et programmes en un seul endroit."
+    },
+    "searchPlaceholder": "Rechercher dans le catalogue…",
+    "filters": {
+      "all": "Tout",
+      "service": "Services",
+      "product": "Produits",
+      "lab": "Analyses",
+      "training": "Formation"
+    },
+    "empty": "Aucun résultat correspondant.",
+    "results": "résultat",
+    "request": "Demander",
+    "download": {
+      "title": "Demander le catalogue complet",
+      "text": "Demandez la version intégrale du catalogue au format PDF par e-mail.",
+      "button": "Demander le catalogue"
+    },
+    "mailSubject": "Demande de catalogue complet",
+    "items": [
+      { "type": "service", "title": "Conseil scientifique et technique", "description": "Avis d'experts et études diagnostiques." },
+      { "type": "service", "title": "Études de faisabilité", "description": "Études techniques et économiques de projets." },
+      { "type": "service", "title": "Qualité ISO 9001:2015", "description": "Accompagnement et audit des systèmes qualité." },
+      { "type": "lab", "title": "Analyse de l'eau", "description": "Analyses physico-chimiques et microbiologiques." },
+      { "type": "lab", "title": "Essais matériaux de construction", "description": "Résistance du béton et analyse granulométrique." },
+      { "type": "lab", "title": "Analyse des sols", "description": "Propriétés, salinité et fertilité des sols." },
+      { "type": "product", "title": "Appareils de mesure de terrain", "description": "Équipements pour la qualité de l'eau et l'énergie." },
+      { "type": "product", "title": "Solutions solaires", "description": "Systèmes applicatifs pour environnements désertiques." },
+      { "type": "training", "title": "Stage méthodologie de la recherche", "description": "5 jours, en présentiel." },
+      { "type": "training", "title": "Stage ISO 9001:2015", "description": "3 jours, auditeurs internes." },
+      { "type": "training", "title": "Stage analyse de données", "description": "4 jours, pratique." }
+    ]
+  },
+  "careers": {
+    "hero": {
+      "title": "Carrières",
+      "subtitle": "Rejoignez une équipe qui met la science et l'innovation au service du développement."
+    },
+    "why": {
+      "title": "Pourquoi CRDO ?",
+      "items": [
+        { "title": "Environnement scientifique stimulant", "text": "Travailler aux côtés de chercheurs et d'enseignants universitaires." },
+        { "title": "Développement professionnel", "text": "Formation continue via l'Académie." },
+        { "title": "Valeurs affirmées", "text": "Professionnalisme, intégrité et respect au quotidien." }
+      ]
+    },
+    "openingsTitle": "Offres disponibles",
+    "openings": [
+      {
+        "title": "Ingénieur d'études (exemple)",
+        "type": "Temps plein",
+        "location": "El Oued",
+        "description": "Participation à la réalisation d'études techniques et de missions de conseil."
+      },
+      {
+        "title": "Technicien de laboratoire (exemple)",
+        "type": "Temps plein",
+        "location": "El Oued",
+        "description": "Réalisation des analyses et maintenance des équipements."
+      },
+      {
+        "title": "Responsable qualité (exemple)",
+        "type": "Temps plein",
+        "location": "El Oued",
+        "description": "Pilotage du système qualité conformément à ISO 9001:2015."
+      }
+    ],
+    "note": "Les offres ci-dessus sont des exemples indicatifs. Vous pouvez envoyer une candidature spontanée à tout moment.",
+    "applyTitle": "Candidature spontanée",
+    "applyText": "Envoyez-nous vos coordonnées et votre CV ; nous vous contacterons lorsqu'une opportunité correspondra à votre profil."
+  }
+}
