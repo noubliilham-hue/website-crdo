@@ -49,11 +49,11 @@ export default async function Hero() {
           <div className="container-x flex items-end justify-between gap-4">
             <div className="flex items-center gap-3 rounded-lg border border-white/15 bg-petrol-dark/60 px-4 py-2 backdrop-blur-sm">
               <Image
-                src="/brand/logo.jpg"
+                src="/brand/logo.png"
                 alt={tBrand("logoAlt")}
-                width={40}
-                height={40}
-                className="rounded-sm object-cover"
+                width={64}
+                height={64}
+                className="h-12 w-12 object-contain sm:h-14 sm:w-14"
               />
               <div className="text-xs sm:text-sm">
                 <p className="font-semibold text-gold">{t("badge")}</p>

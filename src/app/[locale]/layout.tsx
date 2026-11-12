@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { IBM_Plex_Sans_Arabic, Manrope } from "next/font/google";
+import { Cairo, Manrope } from "next/font/google";
 import { notFound } from "next/navigation";
 import { hasLocale, NextIntlClientProvider } from "next-intl";
 import { getMessages, getTranslations, setRequestLocale } from "next-intl/server";
@@ -9,8 +9,8 @@ import Footer from "@/components/Footer";
 import WhatsAppFloat from "@/components/WhatsAppFloat";
 import "../globals.css";
 
-const plexArabic = IBM_Plex_Sans_Arabic({
-  variable: "--font-plex-arabic",
+const cairo = Cairo({
+  variable: "--font-cairo",
   subsets: ["arabic", "latin"],
   weight: ["300", "400", "500", "600", "700"],
   display: "swap",
@@ -35,7 +35,7 @@ export async function generateMetadata({
   return {
     title: { default: t("title"), template: `%s | CRDO` },
     description: t("description"),
-    icons: { icon: "/brand/logo.jpg" },
+    icons: { icon: "/brand/logo.png" },
   };
 }
 
@@ -54,7 +54,7 @@ export default async function LocaleLayout({
     <html
       lang={locale}
       dir={isRtl(locale) ? "rtl" : "ltr"}
-      className={`${plexArabic.variable} ${manrope.variable} h-full antialiased`}
+      className={`${cairo.variable} ${manrope.variable} h-full antialiased`}
     >
       <body className="flex min-h-full flex-col">
         <NextIntlClientProvider messages={messages}>
