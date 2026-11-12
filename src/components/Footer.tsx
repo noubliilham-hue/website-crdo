@@ -27,11 +27,11 @@ export default async function Footer() {
           <div className="lg:col-span-4">
             <Link href="/" className="inline-flex items-center gap-3">
               <Image
-                src="/brand/logo.jpg"
+                src="/brand/logo.png"
                 alt={tBrand("logoAlt")}
-                width={56}
-                height={56}
-                className="rounded-sm object-cover"
+                width={80}
+                height={80}
+                className="h-16 w-16 object-contain sm:h-20 sm:w-20"
               />
               <div>
                 <p className="text-lg font-bold text-gold">{tBrand("name")}</p>

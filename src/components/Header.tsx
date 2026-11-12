@@ -63,11 +63,11 @@ export default function Header() {
         <div className="flex h-[4.5rem] items-center justify-between gap-4 lg:h-20">
           <Link href="/" className="flex shrink-0 items-center gap-3">
             <Image
-              src="/brand/logo.jpg"
+              src="/brand/logo.png"
               alt={tBrand("logoAlt")}
-              width={48}
-              height={48}
-              className="rounded-sm object-cover"
+              width={72}
+              height={72}
+              className="h-14 w-14 object-contain sm:h-16 sm:w-16"
               priority
             />
             <span className="hidden text-sm font-bold leading-tight text-white sm:block">
